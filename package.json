@@ -1,0 +1,18 @@
+{
+  "name": "rajat-sinha",
+  "version": "1.0.0",
+  "description": "creating a file in json format",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm help jason"
+  },
+  "repository": {
+    "type": "git",
+    "url": "how-to-npm"
+  },
+  "keywords": [
+    "hiimrajat1234567890"
+  ],
+  "author": "rajat sinha",
+  "license": "UNLICENSED"
+}
