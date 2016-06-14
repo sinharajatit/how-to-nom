@@ -1,10 +1,10 @@
 {
-  "name": "rajat-sinha",
-  "version": "1.0.0",
+  "name": "rajat",
+  "version": "1.0.2",
   "description": "creating a file in json format",
   "main": "index.js",
   "scripts": {
-    "test": "npm help jason"
+    "test": "node test.js"
   },
   "repository": {
     "type": "git",
@@ -14,5 +14,9 @@
     "hiimrajat1234567890"
   ],
   "author": "rajat sinha",
-  "license": "UNLICENSED"
+  "license": "UNLICENSED",
+  "dependencies": {
+    "@linclark/pkg": "^1.0.2"
+  },
+  "devDependencies": {}
 }
